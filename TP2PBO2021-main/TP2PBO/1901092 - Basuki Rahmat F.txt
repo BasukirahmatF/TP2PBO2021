@@ -1,0 +1,23 @@
+Saya Basuki Rahmat Firmansyah mengerjakan TP2 dalam 
+mata kuliah DPBO untuk keberkahan Nya, maka saya 
+tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. 
+
+Kesulitan:
+- Masih belum mengenal lebih jauh mengenai aplikasi apache netbeans
+- dan kurang memahami tools yang ada di dalamnya
+- saat mendesain suka kadang malah kehapus
+
+Hal yang dipelajari:
+- memahami aplikasi netbeans
+- tools aplikasinya
+- mendesain melalui aplikasi tersebut 
+
+Fitur:
+- terhubung dengan database
+
+
+
+
+
+*https://github.com/BasukirahmatF/TP2PBO2021
